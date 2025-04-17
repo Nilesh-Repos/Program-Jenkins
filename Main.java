@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Output from java program");
         System.out.println(new Date());
         System.out.println("hallo world");
+        System.out.println("hallo world 2");
+        System.out.println("hallo world 3");
     }
 }
