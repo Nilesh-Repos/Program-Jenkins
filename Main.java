@@ -10,5 +10,7 @@ public class Main {
         System.out.println("hallo world");
         System.out.println("hallo world 2");
         System.out.println("hallo world 3");
+        student Student = new student();
+        Student.SayHello();
     }
 }
